@@ -34,9 +34,9 @@ days = datetime.now().day
 year = datetime.now().year
 indo = "%s-%s-%s"%(days,reall,year)
 
-author   = 'khamdihi'
-facebook = 'khamdihi DEV (https://m.facebook.com/profile.php?id=100086281072244)'
-whatsapp = '0857 2941 6714'
+author   = 'Waylesiopat'
+facebook = 'Waylesiopat DEV (https://m.facebook.com/profile.php?id=100086281072244)'
+whatsapp = '081 234 785 443'
 komen    = random.choice(
 	 ['hello bang😎','Keren Suhu','Salam kenal bang♥','Keren anjay','Kelazz','Pro kntl bang😎','Sehat selalu bang♥','mantap bang😎']
 )
@@ -229,7 +229,7 @@ def Banner():
     KAGLK = '''[bold white]╔╗ ╦═╗╦ ╦╔╦╗╔═╗  ╔═╗╔╗
  ╠╩╗╠╦╝║ ║ ║ ║╣   ╠╣ ╠╩╗
  ╚═╝╩╚═╚═╝ ╩ ╚═╝  ╚  ╚═╝ 
- ( Di Buat oleh [bold green]Khamdihi[bold white] ) '''
+ ( Di Buat oleh [bold green]Waylesiopat[bold white] ) '''
     Console(width=50).print(Panel(KAGLK,style='bold purple'),justify='center')
 
 def Masuk():
