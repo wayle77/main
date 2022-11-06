@@ -70,5 +70,5 @@ echo
 echo
 echo "       [√] install commando done..."
 echo
-echo "     type python Cr4ck.py to continue "
+echo "     type python3 main.py to continue "
 echo
